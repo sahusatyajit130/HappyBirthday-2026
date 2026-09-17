@@ -41,7 +41,7 @@ const reasons = [
         gif: "gif1.gif"
     },
     {
-        text: "Because you're the best listener I know! 🌸",
+        text: "Because you're the prettiest person I know! 🌸",
         emoji: "💫",
         gif: "gif2.gif"
     },
